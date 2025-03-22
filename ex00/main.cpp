@@ -1,5 +1,4 @@
 #include "Polymorphism.hpp"
-#include "Animal.hpp"
 
 int main(void)
 {
