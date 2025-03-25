@@ -1,5 +1,6 @@
 
 #include "Polymorphism.hpp"
+#include "Animal.hpp"
 
 Animal::Animal() : type("Undifined")
 {

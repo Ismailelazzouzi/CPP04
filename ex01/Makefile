@@ -7,6 +7,7 @@ FILES = main \
 		Animal \
 		Dog \
 		Cat \
+		Brain \
 
 SRCS = $(addsuffix .cpp, $(FILES))
 
