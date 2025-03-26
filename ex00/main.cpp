@@ -20,6 +20,9 @@ int main(void)
     // i->makeSound(); //will output the WrongCat sound!
     // j->makeSound(); //will output WrongDog sound!
     // meta->makeSound();
+    delete meta;
+    delete i;
+    delete j;
     return (0);
 
 }
